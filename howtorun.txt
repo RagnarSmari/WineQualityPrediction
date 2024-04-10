@@ -1,0 +1,13 @@
+To run the code you have to have the following:
+Python, version 10 or <
+Sklearn modules
+Pandas modules
+Numpy
+scipy modules
+seagorn modules
+matplotlib modules
+
+To install these modules you first have to have Python installed.
+Then just pip install all of those modules.
+
+Then just click run all cells button.
